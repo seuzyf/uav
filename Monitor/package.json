@@ -4,6 +4,6 @@
 	"main": "main.js",
 	"dependencies": {},
 	"devDependencies": {
-		"electron": "^7.1.11"
+		"electron": "^11.5.0"
 	}
 }
